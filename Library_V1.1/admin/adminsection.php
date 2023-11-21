@@ -66,27 +66,27 @@
                                     <option value="1° año ">1°</option>
                                     <option value="2° año ">2°</option>
                                     <option value="3° año ">3°</option>
+                                    <option value="4° año ">4°</option>
+                                    <option value="5° año ">5°</option>
                                 </select>
                             </div>
                             <div class="group-material">
                                 <span>Especialidad</span>
                                 <select class="material-control tooltips-general" name="sectionSpecialty" data-toggle="tooltip" data-placement="top" title="Elige la especialidad">
                                     <option value="" disabled="" selected="">Selecciona una opción</option>
-                                    <option value="Asistente Ad. ">Asistente Ad.</option>
-                                    <option value="Contador ">Contador</option>
-                                    <option value="Enfermería ">Enfermería</option>
-                                    <option value="General ">General</option>
-                                    <option value="Mecánica A. ">Mecánica A.</option>
+                                    <option value="Ingeniería">Ingeniería</option>
+                                    <option value="Economía ">Economía</option>
+                                    <option value="Administración ">Administración</option>
+                                    <option value="Derecho">Derecho</option>
                                 </select>
                             </div>
                             <div class="group-material">
                                 <span>Sección</span>
                                 <select class="material-control tooltips-general" name="sectionSection" data-toggle="tooltip" data-placement="top" title="Elige la sección">
                                     <option value="" disabled="" selected="">Selecciona una opción</option>
-                                    <option value="A">A</option>
-                                    <option value="B">B</option>
-                                    <option value="C">C</option>
-                                    <option value="D">D</option>
+                                    <option value="3D1">3D1</option>
+                                    <option value="3T1">3T1</option>
+
                                 </select>
                             </div>
                             <p class="text-center">
