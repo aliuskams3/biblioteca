@@ -81,6 +81,7 @@
                         </li>
                         <li><a href="'.$LinkRouteAdmin.'adminreport.php"><i class="zmdi zmdi-trending-up zmdi-hc-fw"></i>&nbsp;&nbsp; Reportes y estadísticas</a></li>
                         <li><a href="'.$LinkRouteAdmin.'adminadvancesettings.php"><i class="zmdi zmdi-wrench zmdi-hc-fw"></i>&nbsp;&nbsp; Configuraciones avanzadas</a></li>
+                        <li><a href="'.$LinkRouteAdmin.'admingenerarqr.php"><i class="zmdi zmdi-qr_code zmdi-hc-fw"></i>&nbsp;&nbsp; Generar QR</a></li>
                         ';
                     }
                 ?>

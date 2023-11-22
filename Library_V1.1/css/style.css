@@ -733,3 +733,8 @@ input.material-control:focus ~ .highlight {
     .form-container{ width: 370px; }
     .navbar-lateral{ display: inherit !important; }
 }
+.contenedorQR {
+	display: flex;
+	justify-content: center;
+	padding: 40px 0;
+}

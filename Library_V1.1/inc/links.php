@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="<?php echo $LinksRoute; ?>css/jquery.mCustomScrollbar.css">
 <link rel="stylesheet" href="<?php echo $LinksRoute; ?>css/style.css">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <script>window.jQuery || document.write('<script src="<?php echo $LinksRoute; ?>js/jquery-1.11.2.min.js"><\/script>')</script>
 <script src="<?php echo $LinksRoute; ?>js/modernizr.js"></script>
 <script src="<?php echo $LinksRoute; ?>js/bootstrap.min.js"></script>
